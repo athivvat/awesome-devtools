@@ -6,6 +6,8 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Admin Dashboard](#admin-dashboard)
 - [Documentation](#documentation)
 
-# Admin Dashboard
+## Admin Dashboard
+- [AdminJS](https://adminjs.co/) - Open-Source Admin Panel for your Node.js Application
 
-# Documentation
+## Documentation
+- [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
