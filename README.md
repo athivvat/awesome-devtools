@@ -5,6 +5,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 - [Admin Dashboard](#admin-dashboard)
 - [Authentication](#authentication)
+- [Databases](#databases)
 - [Documentation](#documentation)
 
 ## Admin Dashboard
@@ -14,6 +15,9 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
 - [Ory.sh](https://www.ory.sh/) - The infrastructure for secure internet applications
 - [Permit.io](https://www.permit.io/) - Never build permissions again
+
+## Databases
+- [Supabase](https://supabase.com/) - An open-source alternative to Firebase.
  
 ## Documentation
 - [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
