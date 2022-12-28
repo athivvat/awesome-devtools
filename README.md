@@ -17,8 +17,9 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Permit.io](https://www.permit.io/) - Never build permissions again
 
 ## Databases
-- [Supabase](https://supabase.com/) - An open-source alternative to Firebase.
+- [Supabase](https://supabase.com/) - An open-source alternative to Firebase
  
 ## Documentation
 - [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content
+- [Markdoc](https://markdoc.dev/) - A powerful, flexible, Markdown-based authoring framework
