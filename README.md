@@ -1,2 +1,2 @@
-# awesome-devtools
-Awesome Developer Tools
+# Awesome Developer Tools
+A curated list of awesome developer tools
