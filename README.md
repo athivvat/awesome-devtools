@@ -30,10 +30,14 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ### Generative AI
 
 #### Text
+- [Jasper](https://www.jasper.ai/) - The AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 
 #### Image
+- [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you.
 
 #### Audio
+- [Replica Studio](https://replicastudios.com/) - AI voice actors for games, film & the metaverse
+- [AssemblyAI](https://www.assemblyai.com/) - Transcribe and understand audio with a single AI-powered API
 
 ## Authentication
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
