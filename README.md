@@ -54,6 +54,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 ## E-Commerce
 - [Medusa.js](https://medusajs.com/) - The open source shopify alternative
+- [Solidus](https://solidus.io/) - The only eCommerce platform you’ll ever need
 
 ## Front-End
 ### Framework
