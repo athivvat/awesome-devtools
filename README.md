@@ -5,6 +5,11 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 - [Admin Dashboard](#admin-dashboard)
 - [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
+  - [ML Platforms](#ml-platforms)
+  - [Generative AI](#generative-ai)
+    - [Text](#text)
+    - [Image](#image)
+    - [Audio](#audio)
 - [Authentication](#authentication)
 - [Databases](#databases)
 - [Documentation](#documentation)
@@ -17,8 +22,18 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [AdminJS](https://adminjs.co/) - Open-Source Admin Panel for your Node.js Application
 
 ## Artificial Intelligence & Machine Learning
+
+### ML Platforms
 - [Humaan.ai](https://humaan.ai/) - The easiest way to applied intelligence
 - [Wit.ai](https://wit.ai/) - Build natural language experiences
+
+### Generative AI
+
+#### Text
+
+#### Image
+
+#### Audio
 
 ## Authentication
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
