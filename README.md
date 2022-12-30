@@ -10,7 +10,11 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Text](#text)
     - [Image](#image)
     - [Audio](#audio)
+    - [Video](#video)
+    - [Code](#code)
+    - [Chatbots](#chatbots)
 - [Authentication](#authentication)
+- [CMS](#cms)
 - [Code Analysis](#code-analysis)
 - [Databases](#databases)
 - [Documentation](#documentation)
@@ -51,6 +55,10 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
 - [Ory.sh](https://www.ory.sh/) - The infrastructure for secure internet applications
 - [Permit.io](https://www.permit.io/) - Never build permissions again
+
+## CMS
+- [Payload](https://payloadcms.com/) - The most powerful TypeScript CMS.
+- [Ghost](https://ghost.org/) - Turn your audience into a business.
 
 ## Code Analysis
 - [Codiga](https://www.codiga.io/) - Customizable static code analysis that works in your IDE, CI/CD pipelines and more
