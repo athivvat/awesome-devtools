@@ -72,6 +72,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content
 - [Markdoc](https://markdoc.dev/) - A powerful, flexible, Markdown-based authoring framework
 - [Notaku](https://notaku.so/) - Publish awesome websites using Notion to manage content
+- [GitBook](https://www.gitbook.com/) - Where technical teams document
 
 ## E-Commerce
 - [Medusa.js](https://medusajs.com/) - The open source shopify alternative
