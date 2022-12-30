@@ -11,6 +11,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Image](#image)
     - [Audio](#audio)
 - [Authentication](#authentication)
+- [Code Analysis](#code-analysis)
 - [Databases](#databases)
 - [Documentation](#documentation)
 - [E-Commerce](#e-commerce)
@@ -31,6 +32,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 #### Text
 - [Jasper](https://www.jasper.ai/) - The AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
+- [Smartwriter.ai](https://www.smartwriter.ai/) - Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI
 
 #### Image
 - [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you.
@@ -39,10 +41,18 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Replica Studio](https://replicastudios.com/) - AI voice actors for games, film & the metaverse
 - [AssemblyAI](https://www.assemblyai.com/) - Transcribe and understand audio with a single AI-powered API
 
+#### Code
+- [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast
+- [Tabnine](https://www.tabnine.com) - AI assistant for software developers
+
 ## Authentication
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
 - [Ory.sh](https://www.ory.sh/) - The infrastructure for secure internet applications
 - [Permit.io](https://www.permit.io/) - Never build permissions again
+
+## Code Analysis
+- [Codiga](https://www.codiga.io/) - Customizable static code analysis that works in your IDE, CI/CD pipelines and more
+- [SonarQube](https://www.sonarsource.com/products/sonarqube/) - SonarQube Self-managed static analysis tool for continuous codebase inspection
 
 ## Databases
 - [Supabase](https://supabase.com/) - An open-source alternative to Firebase
