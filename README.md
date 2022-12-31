@@ -39,6 +39,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 #### Text
 - [Jasper](https://www.jasper.ai/) - The AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Smartwriter.ai](https://www.smartwriter.ai/) - Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI
+- [Hyperwrite](https://hyperwriteai.com/) -Your personal writing assistant
 
 #### Image
 - [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you.
@@ -46,6 +47,10 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 #### Audio
 - [Replica Studio](https://replicastudios.com/) - AI voice actors for games, film & the metaverse
 - [AssemblyAI](https://www.assemblyai.com/) - Transcribe and understand audio with a single AI-powered API
+
+#### Video
+- [Zubtitle](https://zubtitle.com/) - Create awesome videos for social media in minutes
+- [Terra](https://www.welcometerra.com/) - A machine learning platform specifically tailored to reduce friction and complexity in the video storytelling process.
 
 #### Code
 - [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast
