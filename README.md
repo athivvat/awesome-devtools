@@ -32,7 +32,8 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 ### ML Platforms
 - [Humaan.ai](https://humaan.ai/) - The easiest way to applied intelligence
-- [Wit.ai](https://wit.ai/) - Build natural language experiences
+- [Galileo](https://www.rungalileo.io/) - Instantly debug, curate, optimize, fix, track your machine learning data
+- [Slai](https://www.getbeam.dev/) - Serverless runtimes for ambitious projects
 
 ### Generative AI
 
@@ -56,6 +57,12 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast
 - [Tabnine](https://www.tabnine.com) - AI assistant for software developers
 
+#### Chatbots
+- [Lang.ai](https://www.lang.ai/) - Put CX Data to work. Drive retention and ease CX operations
+- [PolyAI](https://poly.ai/) - AI Your Customers Want to Talk To
+- [Tymely](https://www.tymely.ai/) - Astonish your customers with outstanding customer service
+- [Wit.ai](https://wit.ai/) - Build natural language experiences
+
 ## Authentication
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
 - [Ory.sh](https://www.ory.sh/) - The infrastructure for secure internet applications
@@ -64,6 +71,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ## CMS
 - [Payload](https://payloadcms.com/) - The most powerful TypeScript CMS.
 - [Ghost](https://ghost.org/) - Turn your audience into a business.
+- [ContentStack](https://www.contentstack.com/) - Agile CMS at its core
 
 ## Code Analysis
 - [Codiga](https://www.codiga.io/) - Customizable static code analysis that works in your IDE, CI/CD pipelines and more
@@ -82,6 +90,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ## E-Commerce
 - [Medusa.js](https://medusajs.com/) - The open source shopify alternative
 - [Solidus](https://solidus.io/) - The only eCommerce platform you’ll ever need
+- [Shopify](https://www.shopify.com/) - eCommerce platform for online stores and retail point-of-sale systems.
 
 ## Front-End
 ### Framework
