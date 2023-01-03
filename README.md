@@ -13,6 +13,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Video](#video)
     - [Code](#code)
     - [Chatbots](#chatbots)
+    - [Gaming](#gaming)
 - [Authentication](#authentication)
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
@@ -62,6 +63,9 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [PolyAI](https://poly.ai/) - AI Your Customers Want to Talk To
 - [Tymely](https://www.tymely.ai/) - Astonish your customers with outstanding customer service
 - [Wit.ai](https://wit.ai/) - Build natural language experiences
+
+#### Gaming
+- [Charisma](https://charisma.ai/) - Power real-time digital humans for games, metaverses, VR, education, TV & Film, publishing and beyond!
 
 ## Authentication
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
