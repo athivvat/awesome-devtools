@@ -72,6 +72,8 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Ory.sh](https://www.ory.sh/) - The infrastructure for secure internet applications
 - [Permit.io](https://www.permit.io/) - Never build permissions again
 - [Auth.js](https://authjs.dev/) - Authentication for the web
+- [authentik](https://goauthentik.io/) - Making authentication simple
+- [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
 
 ## CMS
 - [Payload](https://payloadcms.com/) - The most powerful TypeScript CMS.
