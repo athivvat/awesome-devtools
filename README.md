@@ -71,6 +71,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
 - [Ory.sh](https://www.ory.sh/) - The infrastructure for secure internet applications
 - [Permit.io](https://www.permit.io/) - Never build permissions again
+- [Auth.js](https://authjs.dev/) - Authentication for the web
 
 ## CMS
 - [Payload](https://payloadcms.com/) - The most powerful TypeScript CMS.
