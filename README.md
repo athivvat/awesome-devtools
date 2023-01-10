@@ -42,6 +42,10 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Jasper](https://www.jasper.ai/) - The AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
 - [Smartwriter.ai](https://www.smartwriter.ai/) - Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI
 - [Hyperwrite](https://hyperwriteai.com/) -Your personal writing assistant
+- [Hypertype](https://hypertype.co/) - Write smart emails with your company intelligence
+- [Lately](https://www.lately.ai/) - Use Lately.AI to generate exactly what makes your specific audience lean forward and go woweeeeee — in your unique, human voice.
+- [Autobound](https://www.autobound.ai/) - 3x your email reply rates. Try for free
+- [Writesonic](https://writesonic.com/) - Best AI writer for creating blog aritcles, SEO content, product descriptions, Facebook Ads, Google Ads, Twttier Tweet, Intragram caption, Linkedin post
 
 #### Image
 - [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you.
