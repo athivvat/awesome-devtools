@@ -98,7 +98,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Markdoc](https://markdoc.dev/) - A powerful, flexible, Markdown-based authoring framework
 - [Notaku](https://notaku.so/) - Publish awesome websites using Notion to manage content
 - [GitBook](https://www.gitbook.com/) - Where technical teams document
-
+- [Just the Docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
 ## E-Commerce
 - [Medusa.js](https://medusajs.com/) - The open source shopify alternative
 - [Solidus](https://solidus.io/) - The only eCommerce platform you’ll ever need
