@@ -23,6 +23,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Front-End](#front-end)
   - [Framework](#framework)  
   - [React Components](#react-components) 
+  - [React Libraries](#react-libraries)
 - [Payment](#payment)
 - [System Monitor](#system-monitor)
 
@@ -113,6 +114,9 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ### React Components
 - [HyperUI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS Components
 - [HeadlessUI](https://headlessui.com/) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+
+### React Libraries
+- [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
 
 ## Payment
 - [Stripe](https://stripe.com/) - Payments infrastructure for the internet
