@@ -114,6 +114,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ### React Components
 - [HyperUI](https://www.hyperui.dev/) - Free Open Source Tailwind CSS Components
 - [HeadlessUI](https://headlessui.com/) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
+- [Ripple UI](https://www.ripple-ui.com/) - Ripple UI Ultimate toolkit for modern interface design.
 
 ### React Libraries
 - [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
