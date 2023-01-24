@@ -79,6 +79,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Auth.js](https://authjs.dev/) - Authentication for the web
 - [authentik](https://goauthentik.io/) - Making authentication simple
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
+- [LOGTO](https://logto.io/) - Jump in to your business, Logto takes care of the identity
 
 ## CMS
 - [Payload](https://payloadcms.com/) - The most powerful TypeScript CMS.
