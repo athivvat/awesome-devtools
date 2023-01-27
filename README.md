@@ -92,6 +92,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 ## Databases
 - [Supabase](https://supabase.com/) - An open-source alternative to Firebase
+- [PlanetScale](https://planetscale.com/) - The world’s most advanced serverless MySQL platform
  
 ## Documentation
 - [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
