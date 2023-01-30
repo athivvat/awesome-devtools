@@ -15,6 +15,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Chatbots](#chatbots)
     - [Gaming](#gaming)
 - [Authentication](#authentication)
+- [Backend](#backend)
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
 - [Databases](#databases)
@@ -81,6 +82,10 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
 - [LOGTO](https://logto.io/) - Jump in to your business, Logto takes care of the identity
 
+## Backend
+- [Supabase](https://supabase.com/) - An open-source alternative to Firebase
+- [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
+
 ## CMS
 - [Payload](https://payloadcms.com/) - The most powerful TypeScript CMS.
 - [Ghost](https://ghost.org/) - Turn your audience into a business.
@@ -91,7 +96,6 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/) - SonarQube Self-managed static analysis tool for continuous codebase inspection
 
 ## Databases
-- [Supabase](https://supabase.com/) - An open-source alternative to Firebase
 - [PlanetScale](https://planetscale.com/) - The world’s most advanced serverless MySQL platform
  
 ## Documentation
