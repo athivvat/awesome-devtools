@@ -19,6 +19,8 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
 - [Databases](#databases)
+- [Data Engineering](#data-engineering)
+    - [Data Catalog](#data-catalog)
 - [Documentation](#documentation)
 - [E-Commerce](#e-commerce)
 - [Front-End](#front-end)
@@ -97,6 +99,10 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 ## Databases
 - [PlanetScale](https://planetscale.com/) - The world’s most advanced serverless MySQL platform
+
+## Data Engineering
+#### Data Catalog
+- [DataHub](https://datahubproject.io/) - Open Source Data Catalog
  
 ## Documentation
 - [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
