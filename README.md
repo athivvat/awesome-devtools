@@ -134,6 +134,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 ## Payment
 - [Stripe](https://stripe.com/) - Payments infrastructure for the internet
+- [Zuora](https://www.zuora.com/) - Build, grow, and run your business with the world’s leading monetization platform.
 
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
