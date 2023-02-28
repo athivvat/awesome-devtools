@@ -131,6 +131,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components built with Radix UI and Tailwind CSS.
 - [Saas UI](https://saas-ui.dev/) - Build intuitive apps that your customers will love
 - [Radix](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps in React.
+- [Vuestic](https://vuestic.dev/) - Vue 3 UI Framework
 
 ### React Libraries
 - [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
