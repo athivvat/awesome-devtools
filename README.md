@@ -25,7 +25,6 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [E-Commerce](#e-commerce)
 - [Front-End](#front-end)
   - [Framework](#framework)  
-  - [React Components](#react-components) 
   - [UI Components](#ui-components)
 - [Payment](#payment)
 - [System Monitor](#system-monitor)
@@ -132,6 +131,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Saas UI](https://saas-ui.dev/) - Build intuitive apps that your customers will love
 - [Radix](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps in React.
 - [Vuestic](https://vuestic.dev/) - Vue 3 UI Framework
+- [TailGrids](https://tailgrids.com/) - Tailwind CSS UI Components, Blocks and Templates
 
 ### React Libraries
 - [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
