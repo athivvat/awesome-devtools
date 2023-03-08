@@ -133,6 +133,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Radix](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps in React.
 - [Vuestic](https://vuestic.dev/) - Vue 3 UI Framework
 - [TailGrids](https://tailgrids.com/) - Tailwind CSS UI Components, Blocks and Templates
+- [daisyUI](https://daisyui.com/) - daisyUI components Use Tailwind CSS but write fewer class names
 
 ### React Libraries
 - [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
