@@ -147,3 +147,4 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
+- [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
