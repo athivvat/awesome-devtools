@@ -145,6 +145,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ## Payment
 - [Stripe](https://stripe.com/) - Payments infrastructure for the internet
 - [Zuora](https://www.zuora.com/) - Build, grow, and run your business with the world’s leading monetization platform.
+- [paddle](https://www.paddle.com/) - The complete payments, tax, and subscriptions solution for SaaS
 
 ## Privacy
 - [CkieConsent](https://github.com/orestbida/cookieconsent)- A lightweight & gdpr compliant cookie consent plugin written in plain javascript. An "all-in-one" solution which also allows you to write your cookie policy inside it without the need of having a dedicated page.
