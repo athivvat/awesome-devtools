@@ -44,7 +44,8 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ### Generative AI
 
 #### Text
-- [Jasper](https://www.jasper.ai/) - The AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X faster.
+- [Jasper](https://www.jasper.ai/) - The AI Content Generator that helps you and your team break through creative blocks to create amazing, original content 10X 
+faster.
 - [Smartwriter.ai](https://www.smartwriter.ai/) - Generate 1000s of Personalised Emails that get you 8x more replies within minutes using AI
 - [Hyperwrite](https://hyperwriteai.com/) -Your personal writing assistant
 - [Hypertype](https://hypertype.co/) - Write smart emails with your company intelligence
@@ -54,6 +55,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 #### Image
 - [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you.
+- [InvokeAI](https://invoke-ai.github.io/InvokeAI/) - An implementation of Stable Diffusion, the open source text-to-image and image-to-image generator. It provides a streamlined process with various new features and options to aid the image generation process.
 
 #### Audio
 - [Replica Studio](https://replicastudios.com/) - AI voice actors for games, film & the metaverse
