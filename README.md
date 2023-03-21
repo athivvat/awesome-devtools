@@ -19,6 +19,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
 - [Databases](#databases)
+    - [Analytical Databases](#anlytical-databases)
 - [Data Engineering](#data-engineering)
     - [Data Catalog](#data-catalog)
 - [Documentation](#documentation)
@@ -103,6 +104,9 @@ faster.
 
 ## Databases
 - [PlanetScale](https://planetscale.com/) - The world’s most advanced serverless MySQL platform
+### Analytical Databases
+- [ClickHouse](https://clickhouse.com/clickhouse) - The Open Source OLAP database management system
+- [Apache Doris](https://doris.apache.org/) - An easy-to-use, high performance and unified analytics database.
 
 ## Data Engineering
 #### Data Catalog
