@@ -26,6 +26,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Front-End](#front-end)
   - [Framework](#framework)  
   - [UI Components](#ui-components)
+- [JavaScript Libraries](#javascript-libraries)
 - [Low Code/No Code Platform](#low-codeno-code-platform)
 - [Payment](#payment)
 - [Privacy](#privacy)
@@ -141,6 +142,9 @@ faster.
 ### React Libraries
 - [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
 - [React Flow](https://reactflow.dev/) - A highly customizable React component for building node-based editors and interactive diagrams
+
+## JavaScript Libraries
+- [Anime.js](https://animejs.com/) - a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
 
 ## Low-Code/No-Code Platform
 - [FlutterFlow](https://flutterflow.io/) - Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.
