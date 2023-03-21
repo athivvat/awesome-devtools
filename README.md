@@ -18,6 +18,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Backend](#backend)
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
+- [Data Visualization and Data Exploration](#data-visualization-and-data-exploration)
 - [Databases](#databases)
     - [Analytical Databases](#analytical-databases)
 - [Data Engineering](#data-engineering)
@@ -101,6 +102,10 @@ faster.
 ## Code Analysis
 - [Codiga](https://www.codiga.io/) - Customizable static code analysis that works in your IDE, CI/CD pipelines and more
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/) - SonarQube Self-managed static analysis tool for continuous codebase inspection
+
+## Data Visualization and Data Exploration
+- [Apache Superset](https://superset.apache.org/) - A modern data exploration and visualization platform
+- [Metabase](https://www.metabase.com/) - Fast analytics with the friendly UX and integrated tooling to let your company explore data on their own.
 
 ## Databases
 - [PlanetScale](https://planetscale.com/) - The world’s most advanced serverless MySQL platform
