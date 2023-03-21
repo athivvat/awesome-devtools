@@ -19,7 +19,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
 - [Databases](#databases)
-    - [Analytical Databases](#anlytical-databases)
+    - [Analytical Databases](#analytical-databases)
 - [Data Engineering](#data-engineering)
     - [Data Catalog](#data-catalog)
 - [Documentation](#documentation)
