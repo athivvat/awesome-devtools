@@ -25,6 +25,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Data Catalog](#data-catalog)
 - [Documentation](#documentation)
 - [E-Commerce](#e-commerce)
+- [Email](#email)
 - [Front-End](#front-end)
   - [Framework](#framework)  
   - [UI Components](#ui-components)
@@ -128,6 +129,10 @@ faster.
 - [Medusa.js](https://medusajs.com/) - The open source shopify alternative
 - [Solidus](https://solidus.io/) - The only eCommerce platform you’ll ever need
 - [Shopify](https://www.shopify.com/) - eCommerce platform for online stores and retail point-of-sale systems.
+
+## Email
+- [ConvertKit](https://convertkit.com) - ConvertKit is the go-to marketing hub for creators that helps you grow and monetize your audience with ease.
+- [Mailchimp](https://mailchimp.com/) - The #1 email marketing and automations brand* that recommends ways to get more opens, clicks, and sales.
 
 ## Front-End
 ### Framework
