@@ -4,6 +4,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ## Contents
 
 - [Admin Dashboard](#admin-dashboard)
+- [Analytics Tools](#analytics-tools)
 - [Artificial Intelligence & Machine Learning](#artificial-intelligence--machine-learning)
   - [ML Platforms](#ml-platforms)
   - [Generative AI](#generative-ai)
@@ -37,6 +38,9 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 ## Admin Dashboard
 - [AdminJS](https://adminjs.co/) - Open-Source Admin Panel for your Node.js Application
+
+## Analytics Tools
+- [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative
 
 ## Artificial Intelligence & Machine Learning
 
