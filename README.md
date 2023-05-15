@@ -41,6 +41,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 
 ## Analytics Tools
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative
+- [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics
 
 ## Artificial Intelligence & Machine Learning
 
