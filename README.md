@@ -19,6 +19,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Backend](#backend)
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
+- [Dashboard](#dashboard)
 - [Data Visualization and Data Exploration](#data-visualization-and-data-exploration)
 - [Databases](#databases)
     - [Analytical Databases](#analytical-databases)
@@ -113,6 +114,9 @@ faster.
 ## Data Visualization and Data Exploration
 - [Apache Superset](https://superset.apache.org/) - A modern data exploration and visualization platform
 - [Metabase](https://www.metabase.com/) - Fast analytics with the friendly UX and integrated tooling to let your company explore data on their own.
+
+## Dashboard
+- [tremor](https://www.tremor.so/) - The React library to build dashboards fast.
 
 ## Databases
 - [PlanetScale](https://planetscale.com/) - The world’s most advanced serverless MySQL platform
