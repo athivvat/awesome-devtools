@@ -199,3 +199,4 @@ faster.
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
 - [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
+- [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
