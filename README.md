@@ -36,6 +36,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Marketing](#marketing)
 - [Payment](#payment)
 - [Privacy](#privacy)
+- [Project Management](#project-management)
 - [System Monitor](#system-monitor)
 
 ## Admin Dashboard
@@ -195,6 +196,9 @@ faster.
 
 ## Privacy
 - [CkieConsent](https://github.com/orestbida/cookieconsent)- A lightweight & gdpr compliant cookie consent plugin written in plain javascript. An "all-in-one" solution which also allows you to write your cookie policy inside it without the need of having a dedicated page.
+
+## Project Management
+- [Plane](https://plane.so/) - Project management tool from the future.
 
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
