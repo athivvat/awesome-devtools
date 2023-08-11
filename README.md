@@ -36,6 +36,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Marketing](#marketing)
 - [Payment](#payment)
 - [Privacy](#privacy)
+- [Project Management](#project-management)
 - [System Monitor](#system-monitor)
 
 ## Admin Dashboard
@@ -149,6 +150,7 @@ faster.
 - [Mailchimp](https://mailchimp.com/) - The #1 email marketing and automations brand* that recommends ways to get more opens, clicks, and sales.
 - [Formspark](https://formspark.io/) — A reliable backend for your forms
 - [Mailscribe](https://mailscribe.com/) - AI-powered email marketing platform, with built-in components
+- [maily.to](https://maily.to/) - Open-source editor for crafting emails.
 
 ## Front-End
 ### Framework
@@ -168,7 +170,7 @@ faster.
 - [Vuestic](https://vuestic.dev/) - Vue 3 UI Framework
 - [TailGrids](https://tailgrids.com/) - Tailwind CSS UI Components, Blocks and Templates
 - [daisyUI](https://daisyui.com/) - daisyUI components Use Tailwind CSS but write fewer class names
-
+- [Magic UI](https://magicuikit.com/) - a curated collection of React + Tailwind CSS + Framer Motion components
 
 ### React Libraries
 - [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
@@ -177,16 +179,17 @@ faster.
 ### Sevelt Libraries
 - [https://svelte-sonner.vercel.app/](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
 
-
 ## JavaScript Libraries
 - [Anime.js](https://animejs.com/) - a lightweight JavaScript animation library with a simple, yet powerful API. It works with CSS properties, SVG, DOM attributes and JavaScript Objects.
-
+- [driver.js](https://driverjs.com/) - Product tours, highlights, contextual help and more.
+  
 ## Low-Code/No-Code Platform
 - [FlutterFlow](https://flutterflow.io/) - Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.
 
 ## Marketing
 - [Dub](https://dub.sh/) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
-
+- [Waitlist](https://getwaitlist.com) - Quick and easy waitlist with built-in referrals
+  
 ## Payment
 - [Stripe](https://stripe.com/) - Payments infrastructure for the internet
 - [Zuora](https://www.zuora.com/) - Build, grow, and run your business with the world’s leading monetization platform.
@@ -195,6 +198,10 @@ faster.
 ## Privacy
 - [CkieConsent](https://github.com/orestbida/cookieconsent)- A lightweight & gdpr compliant cookie consent plugin written in plain javascript. An "all-in-one" solution which also allows you to write your cookie policy inside it without the need of having a dedicated page.
 
+## Project Management
+- [Plane](https://plane.so/) - Project management tool from the future.
+
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
 - [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
+- [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
