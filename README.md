@@ -64,6 +64,7 @@ faster.
 - [Lately](https://www.lately.ai/) - Use Lately.AI to generate exactly what makes your specific audience lean forward and go woweeeeee — in your unique, human voice.
 - [Autobound](https://www.autobound.ai/) - 3x your email reply rates. Try for free
 - [Writesonic](https://writesonic.com/) - Best AI writer for creating blog aritcles, SEO content, product descriptions, Facebook Ads, Google Ads, Twttier Tweet, Intragram caption, Linkedin post
+- [jenni](https://jenni.ai/) - Supercharge Your Next Research Paper
 
 #### Image
 - [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you.
