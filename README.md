@@ -106,7 +106,7 @@ faster.
 - [Supabase](https://supabase.com/) - An open-source alternative to Firebase
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
 
-## Business Opearation
+## Business Operation
 - [Documenso](https://documenso.com/) - The open source DocuSign Alternative
 
 ## CMS
