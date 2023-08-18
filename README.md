@@ -17,6 +17,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Gaming](#gaming)
 - [Authentication](#authentication)
 - [Backend](#backend)
+- [Business Operation](#business-operation)
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
 - [Dashboard](#dashboard)
@@ -105,6 +106,9 @@ faster.
 - [Supabase](https://supabase.com/) - An open-source alternative to Firebase
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
 
+## Business Opearation
+- [Documenso](https://documenso.com/) - The open source DocuSign Alternative
+
 ## CMS
 - [Payload](https://payloadcms.com/) - The most powerful TypeScript CMS.
 - [Ghost](https://ghost.org/) - Turn your audience into a business.
@@ -141,6 +145,7 @@ faster.
 - [Notaku](https://notaku.so/) - Publish awesome websites using Notion to manage content
 - [GitBook](https://www.gitbook.com/) - Where technical teams document
 - [Just the Docs](https://github.com/just-the-docs/just-the-docs) - A modern, high customizable, responsive Jekyll theme for documentation with built-in search.
+
 ## E-Commerce
 - [Medusa.js](https://medusajs.com/) - The open source shopify alternative
 - [Solidus](https://solidus.io/) - The only eCommerce platform you’ll ever need
