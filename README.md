@@ -18,6 +18,8 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Authentication](#authentication)
 - [Backend](#backend)
 - [Business Operation](#business-operation)
+  - [Document management and Signature](#document-mangement-and-signature)
+  - [Time Scheduling](#time-scheduling)
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
 - [Dashboard](#dashboard)
@@ -107,7 +109,11 @@ faster.
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
 
 ## Business Operation
+### Document management and Signature
 - [Documenso](https://documenso.com/) - The open source DocuSign Alternative
+
+### Time Scheduling
+- [Cal.com](https://cal.com/) - Scheduling infrastructure for everyone.
 
 ## CMS
 - [Payload](https://payloadcms.com/) - The most powerful TypeScript CMS.
