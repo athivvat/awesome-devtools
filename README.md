@@ -18,7 +18,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Authentication](#authentication)
 - [Backend](#backend)
 - [Business Operation](#business-operation)
-  - [Document management and Signature](#document-mangement-and-signature)
+  - [Document management and Signature](#document-management-and-signature)
   - [Time Scheduling](#time-scheduling)
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
