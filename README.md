@@ -139,7 +139,8 @@ faster.
 ## Databases
 - [PlanetScale](https://planetscale.com/) - The world’s most advanced serverless MySQL platform
 - [NEON](https://neon.tech/) - Serverless Postgres
-[upstash](https://upstash.com/) - Serverless Data for Redis, Kafka
+- [upstash](https://upstash.com/) - Serverless Data for Redis, Kafka
+- [Turso](https://turso.tech) - An edge-hosted, distributed database based on libSQL, an open-source and open-contribution fork of SQLite.
 
 ### Analytical Databases
 - [ClickHouse](https://clickhouse.com/clickhouse) - The Open Source OLAP database management system
