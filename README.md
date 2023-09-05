@@ -218,6 +218,7 @@ faster.
 
 ## Project Management
 - [Plane](https://plane.so/) - Project management tool from the future.
+- [Feedbackjar](https://github.com/fayazara/feedbackjar) - An open source feedback management, public roadmap, and changelog platform.
 
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
