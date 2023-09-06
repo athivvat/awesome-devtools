@@ -42,6 +42,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Privacy](#privacy)
 - [Project Management](#project-management)
 - [System Monitor](#system-monitor)
+- [Web Development and Tools](#web-development-and-tools)
 
 ## Admin Dashboard
 - [AdminJS](https://adminjs.co/) - Open-Source Admin Panel for your Node.js Application
@@ -224,3 +225,6 @@ faster.
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
 - [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
 - [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
+
+## Web Development and Tools
+- [puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
