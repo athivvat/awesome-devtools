@@ -105,6 +105,7 @@ faster.
 - [Keycloak](https://www.keycloak.org/) - Open Source Identity and Access Management
 - [LOGTO](https://logto.io/) - Jump in to your business, Logto takes care of the identity
 - [clerk](https://clerk.com/) - More than authentication. Complete User Management
+- [Lucia](https://lucia-auth.com/) - Authentication, simple and clean
 
 ## Backend
 - [Supabase](https://supabase.com/) - An open-source alternative to Firebase
