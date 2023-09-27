@@ -123,6 +123,7 @@ faster.
 - [Ghost](https://ghost.org/) - Turn your audience into a business.
 - [ContentStack](https://www.contentstack.com/) - Agile CMS at its core
 - [Scribbly](https://scribbly.subhambharadwaz.in/) - Scribbly is a web application built with Next.js and Prisma that allows users to create and manage their digital journal. With a user-friendly interface powered by Radix UI and Shadcn/UI components, Scribbly makes journaling a breeze. It includes features such as customizable reminders, secure user authentication with Clerk, and a subscription plan
+- [Contentlayer](https://contentlayer.dev/) - Content made easy for developers
 
 ## Code Analysis
 - [Codiga](https://www.codiga.io/) - Customizable static code analysis that works in your IDE, CI/CD pipelines and more
