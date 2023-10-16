@@ -225,6 +225,7 @@ faster.
 
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
+- [Pagerly](https://pagerly.io) -  Simplify Oncall and Incidence Management over Slack. Reduce MTTR using Incidence Response
 - [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
 - [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
 
