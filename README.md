@@ -99,6 +99,7 @@ faster.
 
 #### LLM
 - [FlowsieAI](https://flowiseai.com/) - Open source UI visual tool to build LLM apps
+- [LangChain](https://www.langchain.com/) - Get your LLM application from prototype to production
 
 ## Authentication
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
