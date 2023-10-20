@@ -15,7 +15,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Code](#code)
     - [Chatbots](#chatbots)
     - [Gaming](#gaming)
-    - LLM(#llm)
+    - [LLM](#llm)
 - [Authentication](#authentication)
 - [Backend](#backend)
 - [Business Operation](#business-operation)
