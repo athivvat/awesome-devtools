@@ -15,6 +15,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Code](#code)
     - [Chatbots](#chatbots)
     - [Gaming](#gaming)
+    - LLM(#llm)
 - [Authentication](#authentication)
 - [Backend](#backend)
 - [Business Operation](#business-operation)
@@ -95,6 +96,9 @@ faster.
 
 #### Gaming
 - [Charisma](https://charisma.ai/) - Power real-time digital humans for games, metaverses, VR, education, TV & Film, publishing and beyond!
+
+#### LLM
+- [FlowsieAI](https://flowiseai.com/) - Open source UI visual tool to build LLM apps
 
 ## Authentication
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
