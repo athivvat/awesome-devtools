@@ -83,6 +83,7 @@ faster.
 #### Video
 - [Zubtitle](https://zubtitle.com/) - Create awesome videos for social media in minutes
 - [Terra](https://www.welcometerra.com/) - A machine learning platform specifically tailored to reduce friction and complexity in the video storytelling process.
+- [rerun.io](https://www.rerun.io/) - an SDK for building time aware visualizations of multimodal data.
 
 #### Code
 - [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast
