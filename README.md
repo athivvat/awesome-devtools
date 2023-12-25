@@ -141,6 +141,7 @@ faster.
 
 ## Data Platform
 - [directus](https://directus.io/) - Power any project with a modern, open source data platform
+- [Crawlbase](https://crawlbase.com/) - Discover the future of data extraction with Crawlbase! Take advantage of 5000 free requests using promo code SDNT2023 and revolutionize your data-driven decisions."
 
 ## Dashboard
 - [tremor](https://www.tremor.so/) - The React library to build dashboards fast.
