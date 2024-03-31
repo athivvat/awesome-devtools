@@ -51,7 +51,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 ## Analytics Tools
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics
-- [Openpanel](https://openpanel.dev/) - An open-source alternative to Mixpanel
+- [Openpanel](https://openpanel.dev/) - A simple analytics tool for logging events on web, apps and backend. We have tried to combine Mixpanel and Plausible in the same product.
 
 ## Artificial Intelligence & Machine Learning
 
