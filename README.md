@@ -160,6 +160,9 @@ faster.
 ## Data Engineering
 #### Data Catalog
 - [DataHub](https://datahubproject.io/) - Open Source Data Catalog
+
+## Diagram Tools
+- [drawDB](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
  
 ## Documentation
 - [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
