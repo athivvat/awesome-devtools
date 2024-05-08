@@ -117,6 +117,7 @@ faster.
 ## Backend
 - [Supabase](https://supabase.com/) - An open-source alternative to Firebase
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
+- [ApyHub](https://apyhub.com) - API Catalog of 100+ APIs for building simple to complex functionality.
 
 ## Business Operation
 ### Document management and Signature
