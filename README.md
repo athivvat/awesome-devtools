@@ -247,3 +247,4 @@ faster.
 - [puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
 - [dyte](https://dyte.io) - An all-in-one Video SDK to help you build powerful live experiences in your product.
 - [prismic](https://prismic.io/) - Headless Page Builder - Launch and Iterate Faster
+- [True Devtools](https://truedevtools.com) - All-in-one Toolkit for Developers
