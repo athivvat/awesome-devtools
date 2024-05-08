@@ -152,6 +152,7 @@ faster.
 - [NEON](https://neon.tech/) - Serverless Postgres
 - [upstash](https://upstash.com/) - Serverless Data for Redis, Kafka
 - [Turso](https://turso.tech) - An edge-hosted, distributed database based on libSQL, an open-source and open-contribution fork of SQLite.
+- [EdgeDB](https://edgedb.com) - an open-source database engineered to advance SQL into a sophisticated graph data model, supporting composable hierarchical queries and accelerated development cycles.
 
 ### Analytical Databases
 - [ClickHouse](https://clickhouse.com/clickhouse) - The Open Source OLAP database management system
