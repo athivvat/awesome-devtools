@@ -23,6 +23,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
   - [Time Scheduling](#time-scheduling)
 - [CMS](#cms)
 - [Code Analysis](#code-analysis)
+- [CRM](#crm)
 - [Dashboard](#dashboard)
 - [Data Platform](#data-platform)
 - [Data Visualization and Data Exploration](#data-visualization-and-data-exploration)
@@ -138,6 +139,9 @@ faster.
 ## Code Analysis
 - [Codiga](https://www.codiga.io/) - Customizable static code analysis that works in your IDE, CI/CD pipelines and more
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/) - SonarQube Self-managed static analysis tool for continuous codebase inspection
+
+## CRM
+- [Twenty](https://twenty.com/) - Open-Source CRM: Modern, powerful, affordable platform to manage your customer relationships
 
 ## Data Visualization and Data Exploration
 - [Apache Superset](https://superset.apache.org/) - A modern data exploration and visualization platform
