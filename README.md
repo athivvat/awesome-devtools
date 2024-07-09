@@ -209,9 +209,10 @@ faster.
 - [Saas UI](https://saas-ui.dev/) - Build intuitive apps that your customers will love
 - [Radix](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps in React.
 - [Vuestic](https://vuestic.dev/) - Vue 3 UI Framework
-- [TailGrids](https://tailgrids.com/) - Tailwind CSS UI Components, Blocks and Templates
-- [daisyUI](https://daisyui.com/) - daisyUI components Use Tailwind CSS but write fewer class names
-- [Magic UI](https://magicuikit.com/) - a curated collection of React + Tailwind CSS + Framer Motion components
+- [TailGrids](https://tailgrids.com/) - Tailwind CSS UI Components, Blocks and Templates.
+- [daisyUI](https://daisyui.com/) - DaisyUI components Use Tailwind CSS but write fewer class names.
+- [Magic UI](https://magicui.design/) - A curated collection of React + Tailwind CSS + Framer Motion components.
+- [Aceternity UI](https://ui.aceternity.com/) - Beautify your website within minutes.
 
 ### React Libraries
 - [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
