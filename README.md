@@ -192,6 +192,7 @@ faster.
 - [Formspark](https://formspark.io/) — A reliable backend for your forms
 - [Mailscribe](https://mailscribe.com/) - AI-powered email marketing platform, with built-in components
 - [maily.to](https://maily.to/) - Open-source editor for crafting emails.
+- [Plunk](https://www.useplunk.com/) - the open-source, affordable email platform that brings together marketing, transactional and broadcast emails into one single, complete solution.
 
 ## Front-End
 ### Framework
