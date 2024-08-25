@@ -121,6 +121,18 @@ faster.
 - [PocketBase](https://pocketbase.io/) - Open Source backend for your next SaaS and Mobile app in 1 file
 - [ApyHub](https://apyhub.com) - API Catalog of 100+ APIs for building simple to complex functionality.
 
+### Framework (Node.js)
+- [Elysia.js](https://elysiajs.com/) - Ergonomic Framework for Humans
+- (NestJS)[https://nestjs.com/] - A progressive Node.js framework
+- [Expressjs](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
+- [fastify](https://fastify.dev/) - Fast and low overhead web framework, for Node.js
+
+### Framework (Python)
+- [FastAPI](https://fastapi.tiangolo.com/) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+
+### Framework (Go)
+- [Gin](https://gin-gonic.com/) - The fastest full-featured web framework for Go. Crystal clear.
+
 ## Business Operation
 ### Document management and Signature
 - [Documenso](https://documenso.com/) - The open source DocuSign Alternative
