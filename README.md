@@ -31,6 +31,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
     - [Analytical Databases](#analytical-databases)
 - [Data Engineering](#data-engineering)
     - [Data Catalog](#data-catalog)
+- [Design](#design)
 - [Documentation](#documentation)
 - [E-Commerce](#e-commerce)
 - [Email](#email)
@@ -185,7 +186,11 @@ faster.
 
 ## Diagram Tools
 - [drawDB](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
- 
+- [eraser](https://www.eraser.io/) - Documents & diagrams for engineering teams
+   
+## Design
+- [UI Color](https://uicolors.app/) - Tailwind CSS Color Generator
+  
 ## Documentation
 - [Mintlify](https://mintlify.com/) - Beautiful documentation that converts users
 - [Docusaurus](https://docusaurus.io/) - Build optimized websites quickly, focus on your content
