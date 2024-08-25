@@ -123,7 +123,7 @@ faster.
 
 ### Framework (Node.js)
 - [Elysia.js](https://elysiajs.com/) - Ergonomic Framework for Humans
-- (NestJS)[https://nestjs.com/] - A progressive Node.js framework
+- [NestJS](https://nestjs.com/) - A progressive Node.js framework
 - [Expressjs](https://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [fastify](https://fastify.dev/) - Fast and low overhead web framework, for Node.js
 
