@@ -143,6 +143,7 @@ faster.
 
 ## CRM
 - [Twenty](https://twenty.com/) - Open-Source CRM: Modern, powerful, affordable platform to manage your customer relationships
+- [Nextjs Notion Waitlist](https://nextjs-notion-waitlist.vercel.app/) - A template repository for creating a waitlist using Next.js 14, Notion as a CMS, Upstash Redis for rate limiting and Resend for sending emails with a custom domain
 
 ## Data Visualization and Data Exploration
 - [Apache Superset](https://superset.apache.org/) - A modern data exploration and visualization platform
