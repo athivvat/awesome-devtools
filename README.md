@@ -101,6 +101,7 @@ faster.
 - [Charisma](https://charisma.ai/) - Power real-time digital humans for games, metaverses, VR, education, TV & Film, publishing and beyond!
 
 #### LLM
+- [Helicone AI](https://helicone.ai/) - 🧊 Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [FlowsieAI](https://flowiseai.com/) - Open source UI visual tool to build LLM apps
 - [LangChain](https://www.langchain.com/) - Get your LLM application from prototype to production
 
