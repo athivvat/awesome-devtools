@@ -45,6 +45,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Privacy](#privacy)
 - [Project Management](#project-management)
 - [System Monitor](#system-monitor)
+- [Tools for SaaS](#tools-for-saas)
 - [Web Development and Tools](#web-development-and-tools)
 
 ## Admin Dashboard
@@ -273,6 +274,9 @@ faster.
 - [Pagerly](https://pagerly.io) -  Simplify Oncall and Incidence Management over Slack. Reduce MTTR using Incidence Response
 - [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
 - [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
+
+## Tools for SaaS
+- [Flows](https://flows.sh/) - User onboarding for modern SaaS
 
 ## Web Development and Tools
 - [puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
