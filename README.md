@@ -92,6 +92,7 @@ faster.
 #### Code
 - [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast
 - [Tabnine](https://www.tabnine.com) - AI assistant for software developers
+- [Potpie](https://potpie.ai) - AI Agents for your codebase in minutes. Use pre-built agents or create your own purpose-built agents.
 
 #### Chatbots
 - [Lang.ai](https://www.lang.ai/) - Put CX Data to work. Drive retention and ease CX operations
