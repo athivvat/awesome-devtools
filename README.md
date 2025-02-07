@@ -239,6 +239,7 @@ faster.
 - [Magic UI](https://magicui.design/) - A curated collection of React + Tailwind CSS + Framer Motion components.
 - [Aceternity UI](https://ui.aceternity.com/) - Beautify your website within minutes.
 - [Prose UI docs starter](https://github.com/vrepsys/prose-ui-docs-starter) - A documentation starter template with Next.js and Prose UI.
+- [simple-ai](https://www.simple-ai.dev/) - Copy-Paste AI Components. Build Smarter, Faster.
 
 ### React Libraries
 - [React Spring](https://www.react-spring.dev/) - With naturally fluid animations you will elevate your UI & interactions. Bringing your apps to life has never been simpler
