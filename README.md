@@ -247,6 +247,7 @@ faster.
 - [React Flow](https://reactflow.dev/) - A highly customizable React component for building node-based editors and interactive diagrams
 - [Mafs](https://mafs.dev/) - React components for interactive math.
 - [RAG Chat Component](https://rag-component.upstash.app/) - AI Chat Component for Next.js
+- [Planby](https://planby.app/) - Planby is a React based component for a quick implementation of Epg, schedules, live streaming, music events, timelines and many more ideas.
 
 ### Sevelt Libraries
 - [https://svelte-sonner.vercel.app/](https://github.com/wobsoriano/svelte-sonner) - An opinionated toast component for Svelte.
