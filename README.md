@@ -281,6 +281,7 @@ faster.
 
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
+- [Telert](https://github.com/navig-me/telert) – Lightweight open-source CLI tool to send notifications when terminal commands or scripts finish (Telegram, Slack, Desktop, Audio).
 - [Pagerly](https://pagerly.io) -  Simplify Oncall and Incidence Management over Slack. Reduce MTTR using Incidence Response
 - [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
 - [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
