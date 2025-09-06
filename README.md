@@ -52,6 +52,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [AdminJS](https://adminjs.co/) - Open-Source Admin Panel for your Node.js Application
 
 ## Analytics Tools
+- [Repohistory](https://repohistory.com) - GitHub repo analytics tool without 14 days limit
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics
 - [Openpanel](https://openpanel.dev/) - A simple analytics tool for logging events on web, apps and backend. We have tried to combine Mixpanel and Plausible in the same product.
