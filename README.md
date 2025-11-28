@@ -76,6 +76,7 @@ faster.
 - [Autobound](https://www.autobound.ai/) - 3x your email reply rates. Try for free
 - [Writesonic](https://writesonic.com/) - Best AI writer for creating blog aritcles, SEO content, product descriptions, Facebook Ads, Google Ads, Twttier Tweet, Intragram caption, Linkedin post
 - [jenni](https://jenni.ai/) - Supercharge Your Next Research Paper
+- [Metorial](https://metorial.com) - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included
 
 #### Image
 - [beautiful.ai](https://www.beautiful.ai/) - Presentation software that designs for you.
