@@ -223,6 +223,7 @@ faster.
 - [maily.to](https://maily.to/) - Open-source editor for crafting emails.
 - [Plunk](https://www.useplunk.com/) - the open-source, affordable email platform that brings together marketing, transactional and broadcast emails into one single, complete solution.
 - [mail0](https://mail0.io/) - Open source gmail alternative
+- [Wraps](https://wraps.dev) - Open-source email platform that sends through your AWS. Automations, templates, broadcasts—you own the infrastructure.
 
 ## Front-End
 ### Framework
