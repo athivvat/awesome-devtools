@@ -298,6 +298,7 @@ faster.
 - [Flows](https://flows.sh/) - User onboarding for modern SaaS
 
 ## Web Development and Tools
+- [ToolPipe](https://toolpipe.dev/) - 120+ free developer utility tools via API and MCP server. Code review, JSON formatting, QR codes, hashing, DNS lookup, SSL checking, WHOIS, regex testing, and more. No signup required.
 - [puck](https://github.com/measuredco/puck) - The self-hosted drag and drop editor for React.
 - [dyte](https://dyte.io) - An all-in-one Video SDK to help you build powerful live experiences in your product.
 - [prismic](https://prismic.io/) - Headless Page Builder - Launch and Iterate Faster
