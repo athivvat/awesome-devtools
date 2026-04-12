@@ -273,6 +273,8 @@ faster.
 ## Marketing
 - [Dub](https://dub.sh/) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
 - [Waitlist](https://getwaitlist.com) - Quick and easy waitlist with built-in referrals
+- [toprank](https://github.com/nowork-studio/toprank) - Open-source SEO & Google Ads plugin for Claude Code. Meta tags, schema markup, keyword bids, and CMS content pushes.
+
   
 ## Payment
 - [Stripe](https://stripe.com/) - Payments infrastructure for the internet
