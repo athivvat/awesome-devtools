@@ -163,6 +163,7 @@ faster.
 - [Codiga](https://www.codiga.io/) - Customizable static code analysis that works in your IDE, CI/CD pipelines and more
 - [SonarQube](https://www.sonarsource.com/products/sonarqube/) - SonarQube Self-managed static analysis tool for continuous codebase inspection
 - [NPM Scan](https://npmscan.com) - Real-time npm package malware scanner and supply-chain analyzer. Detects malicious scripts, obfuscation, hidden installs, and risky maintainers.
+- [Repowise](https://github.com/repowise-dev/repowise) - Open-source codebase intelligence tool that indexes repos into dependency graphs, git history, and auto-generated docs with dead code detection and hotspot analysis
 
 ## CRM
 - [Twenty](https://twenty.com/) - Open-Source CRM: Modern, powerful, affordable platform to manage your customer relationships
