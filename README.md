@@ -286,6 +286,7 @@ faster.
 - [Plane](https://plane.so/) - Project management tool from the future.
 - [Feedbackjar](https://github.com/fayazara/feedbackjar) - An open source feedback management, public roadmap, and changelog platform.
 - [Organise](https://orgnise.in/) -  Bringing your team's knowledge and projects together in one place, simply and fast.
+- [CodingBooth](https://codingbooth.io) - Reproducible per-project dev environments declared in a `.booth/` folder; runs as a terminal, Jupyter, browser-based VS Code, or full Linux desktop
 
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
