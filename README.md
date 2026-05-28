@@ -295,6 +295,7 @@ faster.
 - [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
 
 ## Tools for SaaS
+- [RedirHub](https://redirhub.com) - API-first URL redirect infrastructure with custom nameservers, edge network, proactive link monitoring, and REST API for managing redirects at scale.
 - [Flows](https://flows.sh/) - User onboarding for modern SaaS
 
 ## Web Development and Tools
