@@ -302,6 +302,7 @@ faster.
 - [dyte](https://dyte.io) - An all-in-one Video SDK to help you build powerful live experiences in your product.
 - [prismic](https://prismic.io/) - Headless Page Builder - Launch and Iterate Faster
 - [True Devtools](https://truedevtools.com) - All-in-one Toolkit for Developers
+- [TinyTools](https://tinytools-smoky.vercel.app/) - Free single-purpose browser-based utilities: domain name generator, OG image generator, AI background remover, favicon generator, color palette generator, SEO meta tag generator, AI cost calculator, AI robots.txt generator. No signup required. Open source.
 
 ## Utilities
 [Trigger.dev](https://trigger.dev/) - The open source Background Jobs framework for TypeScript
