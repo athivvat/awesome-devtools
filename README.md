@@ -302,6 +302,7 @@ faster.
 - [dyte](https://dyte.io) - An all-in-one Video SDK to help you build powerful live experiences in your product.
 - [prismic](https://prismic.io/) - Headless Page Builder - Launch and Iterate Faster
 - [True Devtools](https://truedevtools.com) - All-in-one Toolkit for Developers
+- [ToolBox](https://www.toolbox-kit.com) - 170+ free browser-based developer tools (JSON formatter, diff checker, regex tester, hash/UUID generators, image compressor). No signup; client-side.
 
 ## Utilities
 [Trigger.dev](https://trigger.dev/) - The open source Background Jobs framework for TypeScript
