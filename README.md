@@ -166,6 +166,7 @@ faster.
 
 ## CRM
 - [Twenty](https://twenty.com/) - Open-Source CRM: Modern, powerful, affordable platform to manage your customer relationships
+- [Beton Inspector](https://github.com/getbeton/inspector) - Open-source revenue intelligence: connects PostHog product usage to your CRM and auto-detects buying, expansion & churn signals. Self-hostable (AGPLv3)
 - [Nextjs Notion Waitlist](https://nextjs-notion-waitlist.vercel.app/) - A template repository for creating a waitlist using Next.js 14, Notion as a CMS, Upstash Redis for rate limiting and Resend for sending emails with a custom domain
 
 ## Data Visualization and Data Exploration
