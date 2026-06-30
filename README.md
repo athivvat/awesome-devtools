@@ -237,6 +237,7 @@ faster.
 - [HeadlessUI](https://headlessui.com/) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [Ripple UI](https://www.ripple-ui.com/) - Ripple UI Ultimate toolkit for modern interface design.
 - [shadcn/ui](https://ui.shadcn.com/) - Beautifully designed components built with Radix UI and Tailwind CSS.
+- [Payload Components](https://www.payload-components.xyz/) - MIT registry and CLI for installing wired Payload CMS blocks into Payload v3 + Next.js projects.
 - [Saas UI](https://saas-ui.dev/) - Build intuitive apps that your customers will love
 - [Radix](https://www.radix-ui.com/) - Unstyled, accessible components for building high‑quality design systems and web apps in React.
 - [Vuestic](https://vuestic.dev/) - Vue 3 UI Framework
