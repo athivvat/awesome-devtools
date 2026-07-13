@@ -96,6 +96,7 @@ faster.
 
 #### Code
 - [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast
+- [codex-profiles](https://github.com/Ducksss/codex-profiles) - Open-source CLI for named CODEX_HOME profiles and ChatGPT Desktop windows with separate local state, without copying tokens.
 - [Havoptic](https://havoptic.com) - Open source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Claude Code and more.
 - [Tabnine](https://www.tabnine.com) - AI assistant for software developers
 - [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
