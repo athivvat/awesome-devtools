@@ -304,4 +304,5 @@ faster.
 - [True Devtools](https://truedevtools.com) - All-in-one Toolkit for Developers
 
 ## Utilities
+[Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Browser-local XLSX, XLS, and CSV to Markdown table converter with worksheet, header, and alignment controls.
 [Trigger.dev](https://trigger.dev/) - The open source Background Jobs framework for TypeScript
