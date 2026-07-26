@@ -97,6 +97,7 @@ faster.
 #### Code
 - [Debuild](https://debuild.app/) - The AI-powered low-code tool that helps you build web apps blazingly fast
 - [Havoptic](https://havoptic.com) - Open source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Claude Code and more.
+- [DevProjex](https://github.com/Avazbek22/DevProjex) - Builds clean, AI-ready project context with folder trees, file contents, token counting, Smart Ignore, preview, and multi-format export through a fast GUI and CLI.
 - [Tabnine](https://www.tabnine.com) - AI assistant for software developers
 - [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
 
