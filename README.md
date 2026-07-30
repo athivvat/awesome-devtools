@@ -272,6 +272,7 @@ faster.
 
 ## Marketing
 - [Dub](https://dub.sh/) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
+- [Klinky](https://klinky.io) - A/B testing link shortener that splits one link between two destinations for controlled rollouts.
 - [Waitlist](https://getwaitlist.com) - Quick and easy waitlist with built-in referrals
   
 ## Payment
