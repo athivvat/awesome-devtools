@@ -269,6 +269,7 @@ faster.
 - [Adalo](https://www.adalo.com/) - Build A Mobile App For Your Business — No Coding Required.
 - [Glide](https://www.glideapps.com/) - Glide makes it easy to build custom business software powered by your data and loved by your team—without code.
 - [Lil'bots](https://www.lilbots.io/) - Lil'bots is the best place to build, run and share AI powered scripts. Code in you browser, deploy instantly and use free built-in APIs.
+- [Cactal](https://cactal.ai) - Cactal is the website platform for AI agents. Connect Claude Code, Cursor, or anything that speaks MCP, and your agent gets the tools to design, build, host, and operate production websites: source code, CMS, assets, domains, analytics, and publishing.
 
 ## Marketing
 - [Dub](https://dub.sh/) - Dub is an open-source link management tool for modern marketing teams to create, share, and track short links.
