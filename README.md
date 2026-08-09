@@ -99,6 +99,7 @@ faster.
 - [Havoptic](https://havoptic.com) - Open source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Claude Code and more.
 - [Tabnine](https://www.tabnine.com) - AI assistant for software developers
 - [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
+- [Hedgehog](https://github.com/skyf0xx/hedgehog) - An opinionated AI software engineering workflow that enforces TDD and small, verifiable build steps for AI coding agents.
 
 #### Chatbots
 - [Lang.ai](https://www.lang.ai/) - Put CX Data to work. Drive retention and ease CX operations
