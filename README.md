@@ -287,6 +287,7 @@ faster.
 - [Feedbackjar](https://github.com/fayazara/feedbackjar) - An open source feedback management, public roadmap, and changelog platform.
 - [Organise](https://orgnise.in/) -  Bringing your team's knowledge and projects together in one place, simply and fast.
 
+- [QuoteBoundary](https://quoteboundary.evanguy.chatgpt.site/?utm_source=github&utm_medium=awesome_devtools&utm_campaign=project_management&utm_content=pricing_scope) - Free browser toolkit for freelancers and developers to estimate scope changes and price client requests before extra work.
 ## System Monitor
 - [BetterStack](https://betterstack.com/) - Delightful observability tools that turn your logs & monitoring into a secret weapon for shipping better software faster.
 - [Telert](https://github.com/navig-me/telert) – Lightweight open-source CLI tool to send notifications when terminal commands or scripts finish (Telegram, Slack, Desktop, Audio).
