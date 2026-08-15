@@ -197,6 +197,7 @@ faster.
 ## Diagram Tools
 - [drawDB](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [eraser](https://www.eraser.io/) - Documents & diagrams for engineering teams
+- [Canopy](https://canopy.8starlabs.com/) - Living architecture maps for engineering and AI systems, with GitHub import, cost context, public embeds, and Markdown, CLAUDE.md, and AGENTS.md exports.
    
 ## Design
 - [UI Color](https://uicolors.app/) - Tailwind CSS Color Generator
