@@ -304,4 +304,5 @@ faster.
 - [True Devtools](https://truedevtools.com) - All-in-one Toolkit for Developers
 
 ## Utilities
+- [NextReset](https://nextreset.ai/) - Source-linked public Codex reset history, official AI service incidents, and a browser-local personal timer.
 [Trigger.dev](https://trigger.dev/) - The open source Background Jobs framework for TypeScript
