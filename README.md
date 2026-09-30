@@ -113,6 +113,7 @@ faster.
 - [Helicone AI](https://helicone.ai/) - 🧊 Open-source LLM observability platform for logging, monitoring, and debugging AI applications.
 - [FlowsieAI](https://flowiseai.com/) - Open source UI visual tool to build LLM apps
 - [LangChain](https://www.langchain.com/) - Get your LLM application from prototype to production
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness) - Developer-alpha Rust knowledge store for LLM agents, with encrypted append-only records and scoped, expiring MCP grants.
 
 ## Authentication
 - [SuperTokens](https://supertokens.com/) - Open source user authentication
