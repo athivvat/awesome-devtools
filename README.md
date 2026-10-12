@@ -293,6 +293,7 @@ faster.
 - [Pagerly](https://pagerly.io) -  Simplify Oncall and Incidence Management over Slack. Reduce MTTR using Incidence Response
 - [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
 - [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
+- [Telemetry Tracker](https://github.com/Telemetry-Tracker/telemetry-tracker) - Open-source, self-hostable error tracker for side projects and small teams, with grouped errors, source maps and alerts.
 
 ## Tools for SaaS
 - [Flows](https://flows.sh/) - User onboarding for modern SaaS
