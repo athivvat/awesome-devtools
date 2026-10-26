@@ -56,6 +56,7 @@ A curated list of awesome developer tools. Inspired by the [awesome](https://git
 - [Plausible](https://plausible.io/) - Easy to use and privacy-friendly Google Analytics alternative
 - [umami](https://umami.is/) - Umami is an open source, privacy-focused alternative to Google Analytics
 - [Openpanel](https://openpanel.dev/) - A simple analytics tool for logging events on web, apps and backend. We have tried to combine Mixpanel and Plausible in the same product.
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 
 ## Artificial Intelligence & Machine Learning
 
