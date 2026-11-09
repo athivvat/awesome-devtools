@@ -99,7 +99,7 @@ faster.
 - [Havoptic](https://havoptic.com) - Open source release tracker for AI coding tools. Aggregates changelogs from Cursor, Codex CLI, Claude Code and more.
 - [Tabnine](https://www.tabnine.com) - AI assistant for software developers
 - [Potpie](https://potpie.ai) - Open Source AI Agents for your codebase in minutes. Use pre-built agents for Q&A, Testing, Debugging and System Design or create your own purpose-built agents.
-- [Delta AI](https://app.delta-ai.dev) - Architecture-first backend generator: describe a product, get a service architecture and one pull request per service in your GitHub org. Free first architecture.
+- [Delta AI](https://app.delta-ai.dev) - Architecture-first backend generator: describe a product and it designs the system first — domains, service boundaries and contracts — then writes a specification per service and implements it spec-driven, opening one pull request per service in your GitHub org. Free first architecture.
 
 #### Chatbots
 - [Lang.ai](https://www.lang.ai/) - Put CX Data to work. Drive retention and ease CX operations
