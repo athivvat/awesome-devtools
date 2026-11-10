@@ -305,3 +305,4 @@ faster.
 
 ## Utilities
 [Trigger.dev](https://trigger.dev/) - The open source Background Jobs framework for TypeScript
+- [BetterPDF Convert](https://betterpdfconvert.com/) - Fast in-browser ebook to PDF converter preserving clickable Table of Contents with custom device margin presets.
