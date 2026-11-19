@@ -293,6 +293,7 @@ faster.
 - [Pagerly](https://pagerly.io) -  Simplify Oncall and Incidence Management over Slack. Reduce MTTR using Incidence Response
 - [highlight.io](https://www.highlight.io/) - The open source, fullstack Monitoring Platform.
 - [openstatus](https://www.openstatus.dev/) - an open source alternative to your current monitoring service with a beautiful status page.
+- [ZoneBI](https://zonebi.com/en/) - Outside-in monitoring for domain expiry, DNS, SSL certificates, uptime, email authentication (SPF, DKIM, DMARC) and Spamhaus blocklists, with status pages. Free plan for 3 domains.
 
 ## Tools for SaaS
 - [Flows](https://flows.sh/) - User onboarding for modern SaaS
